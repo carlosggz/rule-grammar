@@ -1,0 +1,12 @@
+{
+  "name": "my name",
+  "boolean": true,
+  "date": "2023-09-22 10:11:12",
+  "array": [ "Value1", "Value2", "Value3" ],
+  "number": 12,
+  "inner": {
+    "innerObject": "inner"
+  },
+  "id": "df0c4dc5-fc6e-4f96-8670-e032c887ef32",
+  "other": null
+}
